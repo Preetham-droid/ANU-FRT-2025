@@ -43,7 +43,6 @@ Basic noise reduction was applied by ignoring pixel values < 10.
 
 A key observation: plotting the **track-to-dark intensity ratio vs intensifier gate length** revealed a peak — possibly evidence of the **ion-backfire process**, where secondary avalanches are triggered by ion feedback in the GEM.
 
-![Ion-backfire](Ion-backfire.png)
 
 ---
 
