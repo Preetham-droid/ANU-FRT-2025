@@ -68,4 +68,4 @@ Various images and code files that didn’t fit into the above sections are stor
 
 ---
 
-📄 **For a more detailed explanation, open the full summary**: `ANU-FRT Summary.tex` (or its compiled PDF, if available).
+📄 **For a more detailed explanation, open the full summary**: `ANU-FRT Summary pdf'.
